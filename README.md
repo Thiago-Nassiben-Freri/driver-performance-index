@@ -1,5 +1,5 @@
 ## Driver Performance Index 📐
-The Driver Performance Index (DPI) is an abstract measure of F1 driver performance, which includes data such as Podiums, Points, Pole Positions and Wins. The data has been normalized and the index ranges from 0 to 1.
+The Driver Performance Index (DPI) is an abstract measure of F1 driver performance, which includes data such as Podiums, Points, Pole Positions and Wins. The data has been normalized and the index ranges from 0 to 1. The data dates from the 1950 British GP to the 2025 Hungarian GP.
 
 ## Project Structure 📋
 ```\datasets -> the data used in CSV format```  
